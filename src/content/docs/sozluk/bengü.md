@@ -1,9 +1,8 @@
 ---
-title: Bengü
-lastUpdated: 2025-07-18T21:58:00.000+03:00
+title: Beñgü
+lastUpdated: ""
 synonyms:
   - ebedi
-  - ölümsüz
 ---
 Ön Türkçe *beŋgü "ebedi" 
 
